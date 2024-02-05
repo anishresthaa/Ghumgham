@@ -25,6 +25,7 @@
 
 <!-- content starts here -->
 @yield('content')
+
 <!-- contenet ends here -->
 
 <!-- footer starts here -->
